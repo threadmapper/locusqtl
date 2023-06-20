@@ -2,7 +2,7 @@
 Find QTL locus
 --------------
 
-- Given a csv files with the genotype
+- Given a csv file with the genotype
 - Phenotypes are in the first row
 - Finding genotype to phenotype association using QTL
 
